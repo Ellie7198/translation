@@ -45,6 +45,7 @@ Brute Force Attack / BFA：暴力破解法
 
 Byzantine Generals Problem / BGP：拜占庭将军问题
 
+Byzantine Fault Tolerance （BFT）：拜占庭容错
 
 # C
 
