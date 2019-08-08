@@ -51,6 +51,8 @@ BFT: “Byzantine-Fault-Tolerant” 缩写， 拜占庭容错
 
 Central Ledger：中央帐簿
 
+chain 链
+
 Cipher：加密
 
 Ciphertext：密文
@@ -71,7 +73,11 @@ Consortium Blockchain：联盟链
 
 Contract Layer: 合约层
 
+Coins 通常是代币
+
 Cross-Chain：跨链
+
+cross-linked dependencies 应该指的是模块间的交叉关联依赖
 
 Crowdfunding：众筹
 
@@ -126,6 +132,8 @@ Distributed ledger Technology / DLT：分布式账本技术
 Distributed Ledger：分布式账本
 
 Distributed Network：分布式网络
+
+Distributions / distribution module 指分配或分配模块
 
 Distributed：分布式
 
@@ -236,7 +244,10 @@ Local Wallet：本地钱包
 
 Long rang attack *：长程攻击 
 
+Long Term Service (LTS) Guarantee 长时间服务（LTS）保证
+
 Low-level protocols：底层协议
+
 
 
 # M
@@ -313,6 +324,8 @@ Proof of Stake / PoS：权益证明
 
 Proof of Work / PoW：工作量证明
 
+Proposal :提案
+
 Public Blockchain：公有链
 
 Public Key：公钥
@@ -374,7 +387,7 @@ Single node stake flip attack：单节点抵押反转攻击
 
 Skin in the game * ：利益共享,风险共担
 
-Slash * ：惩罚
+Slash /slashings * ：惩罚
 
 Smart Contract：智能合约
 
